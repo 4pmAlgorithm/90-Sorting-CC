@@ -21,7 +21,7 @@
 //***************RADIX SORT HELPER 2 ************/
 ///////////////////////////////////////////////////
 //how many numbers of numbers are there in the longest number (lol)
-
+//digitCount
 
 
 
@@ -29,7 +29,7 @@
 ///////////////////////////////////////////////////
 //***************RADIX SORT HELPER 3 ************/
 ///////////////////////////////////////////////////
-
+//most Digits which one has the most digits?
 
 
 

@@ -11,8 +11,6 @@
 //4. if the "mininum" is not the value(index) you initially began with, swap the two values.
 //5. repeat this with the next element until the array is sorted
 
-//TIME: O(N^) better than bubble but not the best sorting solution
-
 
 
 
