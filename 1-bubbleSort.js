@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////
 ///////////////*** BUBBLE SORT QUESTION ***////////////
 ///////////////////////////////////////////////////////
-//swap the elements in the array's order so the smallest number is at first and the largest number is at the last.
+//swap the elements in the array's order so the smallest number is at first and the greatest number is at the last.
 
 // pseudocode
 // 1. start looping from with a variable called i the end of the array towards the beginning. 
