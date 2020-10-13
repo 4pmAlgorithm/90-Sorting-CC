@@ -33,3 +33,8 @@
 
     console.log(quickSort([9,8,7,11,6]))
 //output [ 6, 7, 8, 9, 11 ]
+
+
+//explain this sorting method's big O notation
+// time complexity:
+// space complexity:

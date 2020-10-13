@@ -14,3 +14,7 @@
 
 console.log(insertion([6,5,4,3,2,1]))
 //output: [ 1, 2, 3, 4, 5, 6 ]
+
+//explain this sorting method's big O notation
+// time complexity:
+// space complexity:

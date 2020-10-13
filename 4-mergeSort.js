@@ -23,3 +23,8 @@ console.log(merge([2, 3, 4, 5], [1, 100, 200, 300]))
 //     1,   2,   3,   4, 5,
 //     8, 100, 300, 800
 //   ]
+
+
+//explain this sorting method's big O notation
+// time complexity:
+// space complexity:

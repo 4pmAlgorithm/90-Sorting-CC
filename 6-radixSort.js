@@ -49,3 +49,8 @@ console.log(radixSort([23, 334, 21, 3421, 1453, 9898, 7323]))
 //   1453, 3421, 7323,
 //   9898
 // ]
+
+
+//explain this sorting method's big O notation
+// time complexity:
+// space complexity:

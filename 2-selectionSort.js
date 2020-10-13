@@ -21,3 +21,7 @@
 
 console.log(selectionSort([9,8,7,6]))
 //output: [6,7,8,9]
+
+//explain this sorting method's big O notation
+// time complexity:
+// space complexity:
